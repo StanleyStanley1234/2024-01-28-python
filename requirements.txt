@@ -1,1 +1,1 @@
-PyinputPlus
+PyInputPlus
